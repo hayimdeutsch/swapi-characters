@@ -21,7 +21,7 @@ This is a React.js application that fetches and displays data from the Star Wars
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/star-wars-react-app.git
+   git clone https://github.com/hayimdeutsch/swapi-characters.git
    cd star-wars-react-app
    ```
 
